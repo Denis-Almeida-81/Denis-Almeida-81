@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Denis 👋
 
-<!--
-**Denis-Almeida-81/Denis-Almeida-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de programação frontend  
+🚀 Em busca do meu primeiro emprego na área  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+
+- HTML  
+- CSS  
+- JavaScript (em breve)  
+- Git e GitHub  
+
+---
+
+## 🎯 Objetivos
+
+- Me tornar desenvolvedor frontend  
+- Criar projetos reais  
+- Conseguir minha primeira vaga na área  
+- Trabalhar com programação para dar um futuro melhor para minhas filhas  
+
+---
+
+## 🛠️ Projetos
+
+- Em breve... 🚧  
+
+---
+
+## ⚡ Curiosidades
+
+- Sou casado  
+- Paizão de 2 meninas (10 anos e 2 anos ❤️)  
+- Estudando programação todos os dias em busca de evolução  
+
+---
+
+## 📫 Contato
+
+- Email: denis.1981.almeida@gmail.com  
