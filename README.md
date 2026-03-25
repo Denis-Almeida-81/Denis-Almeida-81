@@ -40,7 +40,7 @@
 
 ---
 
-[![Denis Stats](https://github-readme-stats.vercel.app/api?username=Denis-Almeida-81)](https://github.com/anuraghazra/github-readme-stats)
+[![Denis Stats](https://github-readme-stats.vercel.app/api?username=Denis-Almeida-81)](https://github.com/Denis-Almeida-81/github-readme-stats)
 
 ## 📫 Contato
 
