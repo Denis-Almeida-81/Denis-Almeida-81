@@ -22,7 +22,7 @@
 - Me tornar desenvolvedor frontend  
 - Criar projetos reais  
 - Conseguir minha primeira vaga na área  
-- Trabalhar com programação para dar um futuro melhor para minhas filhas  
+- Trabalhar com programação para dar um futuro melhor para minhas familia 
 
 ---
 
@@ -36,7 +36,7 @@
 
 - Sou casado  
 - Paizão de 2 meninas (10 anos e 2 anos ❤️)  
-- Estudando programação todos os dias em busca de evolução  
+- Estudando programação todos os dias em busca de evolução🚀  
 
 ---
 
