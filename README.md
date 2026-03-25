@@ -40,6 +40,9 @@
 
 ---
 
+![Denis Almeida Stats] (https://github-readme-stats.vercel.app/api?username=Denis-Almeida-81)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 Contato
+
 
 - Email: denis.1981.almeida@gmail.com  
