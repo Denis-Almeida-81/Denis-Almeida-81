@@ -25,11 +25,7 @@
 - Trabalhar com programação para dar um futuro melhor para minhas familia 
 
 ---
-
-## 🛠️ Projetos
-
-- Em breve... 🚧  
-
+ 
 ---
 
 ## ⚡ Curiosidades
