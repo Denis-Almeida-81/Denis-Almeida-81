@@ -40,7 +40,7 @@ Busco minha primeira oportunidade profissional como Desenvolvedor Front-end, ond
  
 ## 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Almeida-blue?style=for-the-badge&logo=linkedin)](SEU_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Almeida-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denis-1981-almeida/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Denis--Almeida--81-black?style=for-the-badge&logo=github)](https://github.com/Denis-Almeida-81)
 
