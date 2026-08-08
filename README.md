@@ -1,17 +1,24 @@
 # Olá, eu sou Denis 👋
 
-💻 Estudante de programação frontend  
-🚀 Em busca do meu primeiro emprego na área  
-📍 Brasil  
+Desenvolvedor Front-end em formação.
+
+Em transição de carreira para o desenvolvimento de software, construindo projetos práticos e aprimorando continuamente minhas habilidades em desenvolvimento web.
+  
 
 ---
 
 ## 📚 Atualmente estudando
+Front-end
 
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+HTML5 • CSS3 • JavaScript • React • Responsive Design
+
+Back-end / APIs
+
+Node.js • Express • APIs REST
+
+Ferramentas
+
+Git • GitHub • VS Code • Vite
     
  
 
@@ -19,10 +26,7 @@
 
 ## 🎯 Objetivos
 
-- Me tornar desenvolvedor frontend  
-- Criar projetos reais  
-- Conseguir minha primeira vaga na área  
-- Trabalhar com programação para dar um futuro melhor para minhas familia 
+Busco minha primeira oportunidade como Desenvolvedor Front-end, onde possa aplicar meus conhecimentos, continuar evoluindo e contribuir para projetos reais.
 
 ---
  
@@ -30,15 +34,19 @@
 
 ## ⚡ Curiosidades
 
-- Sou casado  
-- Paizão de 2 meninas (10 anos e 2 anos ❤️)  
-- Estudando programação todos os dias em busca de evolução🚀  
+Minha trajetória profissional começou na indústria metalúrgica, onde atuei por 12 anos como programador e preparador de máquinas CNC.
+
+Atualmente estou em transição de carreira para o desenvolvimento de software, focado em Front-end.
+
+Venho estudando e desenvolvendo projetos com HTML, CSS, JavaScript, React e, atualmente, Node.js e APIs REST.
+
+Meu objetivo é transformar essa evolução em projetos cada vez mais completos e conquistar minha primeira oportunidade profissional como Desenvolvedor Front-end.  
 
 ---
 
-[![Denis Stats](https://github-readme-stats.vercel.app/api?username=Denis-Almeida-81)](https://github.com/Denis-Almeida-81/github-readme-stats)
+
 
 ## 📫 Contato
 
 
-- Email: denis.1981.almeida@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denis-1981-almeida) 
