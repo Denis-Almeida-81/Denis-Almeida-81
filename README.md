@@ -4,7 +4,6 @@ Desenvolvedor Front-end em formação.
 
 Em transição de carreira para o desenvolvimento de software, construindo projetos práticos e aprimorando continuamente minhas habilidades em desenvolvimento web.
   
-
 ---
 
 ## 🛠️ Tecnologias e ferramentas
@@ -20,16 +19,6 @@ Ferramentas
 
 Git • GitHub • VS Code • Vite
     
- 
-
----
-
-## 🎯 Objetivos
-
-Busco minha primeira oportunidade profissional como Desenvolvedor Front-end, onde possa aplicar meus conhecimentos, continuar evoluindo e contribuir para projetos reais.
-
----
- 
 ---
 
 ## 🧭 Minha trajetória
@@ -43,8 +32,12 @@ Venho estudando e desenvolvendo projetos com HTML, CSS, JavaScript, React e, atu
 Meu objetivo é transformar essa evolução em projetos cada vez mais completos e conquistar minha primeira oportunidade profissional como Desenvolvedor Front-end.  
 
 ---
+## 🎯 Objetivos
 
+Busco minha primeira oportunidade profissional como Desenvolvedor Front-end, onde possa aplicar meus conhecimentos, continuar evoluindo e contribuir para projetos reais.
 
+---
+ 
 ## 🔗 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Almeida-blue?style=for-the-badge&logo=linkedin)](SEU_LINK)
