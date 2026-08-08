@@ -7,7 +7,7 @@ Em transição de carreira para o desenvolvimento de software, construindo proje
 
 ---
 
-## 📚 Atualmente estudando
+## 🛠️ Tecnologias e ferramentas
 Front-end
 
 HTML5 • CSS3 • JavaScript • React • Responsive Design
@@ -26,13 +26,13 @@ Git • GitHub • VS Code • Vite
 
 ## 🎯 Objetivos
 
-Busco minha primeira oportunidade como Desenvolvedor Front-end, onde possa aplicar meus conhecimentos, continuar evoluindo e contribuir para projetos reais.
+Busco minha primeira oportunidade profissional como Desenvolvedor Front-end, onde possa aplicar meus conhecimentos, continuar evoluindo e contribuir para projetos reais.
 
 ---
  
 ---
 
-## ⚡ Curiosidades
+## 🧭 Minha trajetória
 
 Minha trajetória profissional começou na indústria metalúrgica, onde atuei por 12 anos como programador e preparador de máquinas CNC.
 
@@ -45,8 +45,13 @@ Meu objetivo é transformar essa evolução em projetos cada vez mais completos 
 ---
 
 
+## 🔗 Conecte-se comigo
 
-## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Almeida-blue?style=for-the-badge&logo=linkedin)](SEU_LINK)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Denis--Almeida--81-black?style=for-the-badge&logo=github)](https://github.com/Denis-Almeida-81)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denis-1981-almeida) 
+## 📂 Projetos em destaque
+
+Em breve, novos projetos desenvolvidos com foco em aplicações reais,
+boas práticas e desenvolvimento de soluções completas.
