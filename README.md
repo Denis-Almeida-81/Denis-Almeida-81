@@ -44,6 +44,7 @@ Busco minha primeira oportunidade profissional como Desenvolvedor Front-end, ond
 
 [![GitHub](https://img.shields.io/badge/GitHub-Denis--Almeida--81-black?style=for-the-badge&logo=github)](https://github.com/Denis-Almeida-81)
 
+
 ## 📂 Projetos em destaque
 
 Em breve, novos projetos desenvolvidos com foco em aplicações reais,
